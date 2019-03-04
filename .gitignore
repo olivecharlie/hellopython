@@ -105,3 +105,6 @@ venv.bak/
 
 # pycharm
 .idea/
+
+# config we don't want to commit
+_config.json
